@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: fadymondy.com
+    url: https://fadymondy.com
+    about: The reference app these plugins were extracted from.
+  - name: togo docs
+    url: https://to-go.dev
+    about: Framework documentation.
