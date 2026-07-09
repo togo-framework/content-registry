@@ -1,4 +1,4 @@
-module github.com/fadymondy/content-registry
+module github.com/togo-framework/content-registry
 
 go 1.26.4
 
